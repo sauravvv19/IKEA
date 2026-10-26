@@ -2,6 +2,8 @@
 
 *An end to end data analytics project using SQL, Python, and Power BI*
 <img width="1145" height="737" alt="Dashbaord1" src="https://github.com/user-attachments/assets/e54db0cf-42ee-4b08-b0bd-453aa9c558be" />
+<img width="1145" height="727" alt="Dash2" src="https://github.com/user-attachments/assets/e872c95b-727a-4e6b-b8c6-40967ae97fad" />
+
 
 
 
